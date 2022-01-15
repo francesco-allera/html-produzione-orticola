@@ -1,5 +1,6 @@
 # EXERCISE 1 - BOOLEAN CAREERS TRAINEE:
 
+![Screenshot](screen.png)
 
 ### Languages used:
 
