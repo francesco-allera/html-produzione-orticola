@@ -1,8 +1,8 @@
 # EXERCISE 1 - BOOLEAN CAREERS TRAINEE:
 
-### Languages used:
+## Languages used:
 
-- HTML5
+### - HTML5
   
   
   
