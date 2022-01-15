@@ -1,8 +1,6 @@
 # EXERCISE 1 - BOOLEAN CAREERS TRAINEE:
 
 
-![alt text](https://github.com/francesco-allera/html-produzione-orticola/blob/main/img/piselli.png)
-
 ### Languages used:
 
 - HTML5
